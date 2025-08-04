@@ -1,0 +1,8 @@
+TOOLS USED IN THE PROJECT ARE : 
+IBM Cloud Watsonx.ai Studio
+IBM Watsonx Vector Database
+IBM Watsonx AI Runtime
+IBM Cloud Agent Lab
+IBM Cloud Services
+IBM Granite Foundation Model
+LangChain / LangGraph
